@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBoxTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F5A815-3755-4971-A323-1A4AAC4E0CE3}|SpellTextBoxTest.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextboxtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F5A815-3755-4971-A323-1A4AAC4E0CE3}|SpellTextBoxTest.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\menuaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\spellchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\redunderlineadorner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\stringresources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\spelltextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68575F2-D6CA-4B41-8710-1FE81310398A}|..\\SpellTextBox\\SpellTextBox.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextbox\\custom.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F5A815-3755-4971-A323-1A4AAC4E0CE3}|SpellTextBoxTest.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\spelltextbox-master\\spelltextboxtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F5A815-3755-4971-A323-1A4AAC4E0CE3}|SpellTextBoxTest.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBoxTest\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBoxTest\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-24T01:11:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuAction.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\MenuAction.cs",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\MenuAction.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\MenuAction.cs",
+              "RelativeToolTip": "..\\SpellTextBox\\MenuAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:10:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBoxTest\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBoxTest\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvx4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:09:52.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\Word.cs",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\Word.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\Word.cs",
+              "RelativeToolTip": "..\\SpellTextBox\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:09:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "custom.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\custom.txt",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\custom.txt",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\custom.txt",
+              "RelativeToolTip": "..\\SpellTextBox\\custom.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-24T01:09:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringResources.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\StringResources.resx",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\StringResources.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\StringResources.resx",
+              "RelativeToolTip": "..\\SpellTextBox\\StringResources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-24T01:09:45.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpellTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\SpellTextBox.cs",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\SpellTextBox.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\SpellTextBox.cs",
+              "RelativeToolTip": "..\\SpellTextBox\\SpellTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:09:41.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedUnderlineAdorner.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\RedUnderlineAdorner.cs",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\RedUnderlineAdorner.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\RedUnderlineAdorner.cs",
+              "RelativeToolTip": "..\\SpellTextBox\\RedUnderlineAdorner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:09:38.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpellChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\SpellChecker.cs",
+              "RelativeDocumentMoniker": "..\\SpellTextBox\\SpellChecker.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (88)\\SpellTextBox-master\\SpellTextBox\\SpellChecker.cs",
+              "RelativeToolTip": "..\\SpellTextBox\\SpellChecker.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAuwO8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T01:07:53.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

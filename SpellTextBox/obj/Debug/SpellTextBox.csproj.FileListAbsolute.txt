@@ -1,0 +1,125 @@
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (13)\20220509\SpellTextBox-master\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (49)\20220510\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (53)\20220512\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (5)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (6)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CopyComplete
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\HOHO\Desktop\New folder (43)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.StringResources.resources
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.dll
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTextBox.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\custom.txt
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx64.dll
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\Hunspellx86.dll
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.dll
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\SpellTextBox.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.dll
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\bin\Debug\NHunspell.pdb
+C:\Users\Administrator\Desktop\新增資料夾 (88)\SpellTextBox-master\SpellTextBox\obj\Debug\SpellTex.802938D7.Up2Date
